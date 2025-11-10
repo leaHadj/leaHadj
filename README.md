@@ -12,7 +12,7 @@ An AI-powered web app that automatically summarizes emails into short, clear, an
 Built with **Streamlit** and **Hugging Face Transformers**, it detects the email’s language and generates summaries in English or French.  
 *Tech stack:* Streamlit · Transformers · LangDetect · Python 3.11  
 
-### 🔹 [IMDB Movie Rating Prediction](https://github.com/leaHadj/IMDB-Rating-Prediction)
+### 🔹 [IMDB Movie Rating Prediction](https://github.com/leaHadj/IMDB_Rating_Prediction)
 A data science project predicting IMDB movie ratings using both textual and numerical features.  
 It includes full data preprocessing, feature engineering, and model training with **Gradient Boosting**.  
 *Tech stack:* Pandas · NumPy · Scikit-learn · Seaborn · Python 3.11  
